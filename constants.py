@@ -1,2 +1,1 @@
-RESYNC_METAGRAPH_PERIOD = 1  # in minutes
-NETUID = 35
+NETUID = 78
